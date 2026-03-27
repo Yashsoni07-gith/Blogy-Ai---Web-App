@@ -170,7 +170,7 @@ If you like this project:
 ## 👨‍💻 Author
 
 **Yash Soni**
-Frontend Developer | AI Enthusiast
+Frontend Developer
 
 ---
 
